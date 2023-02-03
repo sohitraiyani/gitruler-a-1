@@ -1,0 +1,10 @@
+
+Step 1: Start
+Step 2: Enter num 1 or num 2
+Step 3: Add 1 and 2 and assign result to variable sum
+Step 4: Display sum
+Step 5: Stop
+
+     * out put *
+
+    Sum of 1 and 2
